@@ -10,9 +10,17 @@ O projeto está sendo desenvolvido durante a Imersão Java da Alura com o objeti
 
 ## 💻 Demonstração
 
-<p align="center"><img src="img/imdb-top.png" width="50%"><img src="img/alura-stickers.png" width="50%"></p>
+### Aula 1
 
-No atual estágio de desenvolvimento, a aplicação é capaz de fazer a conexão HTTP e buscar os filmes classificados, extrair e exibir os dados necessários.
+<p align="center"><img src="img/alura-stickers.png" width="50%"></p>
+
+Foi criada uma aplicação capaz de fazer a conexão HTTP para buscar os filmes classificados, extrair e exibir os dados necessários no console.
+
+### Aula 2
+
+<p align="center"><img src="img/poster1.png" width="5%"> <img src="img/poster2.png" width="5%"> <img src="img/poster3.png" width="5%"></p>
+
+Foi criado um gerador de figurinhas, explorando outras bibliotecas nativas do Java, para que seja possível compartilhar as imagens dos filmes favoritos nas redes sociais.
 
 ## ✏️ Autor
 
