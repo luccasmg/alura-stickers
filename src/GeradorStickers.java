@@ -27,7 +27,7 @@ public class GeradorStickers {
         graphics.drawImage(imagemOriginal, 0, 0, null);
 
         //configurar fonte
-        var fonte = new Font(Font.SANS_SERIF, Font.BOLD, 24);
+        var fonte = new Font(Font.SANS_SERIF, Font.BOLD, 22);
         graphics.setColor(Color.YELLOW);
         graphics.setFont(fonte);
 

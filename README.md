@@ -10,17 +10,21 @@ O projeto está sendo desenvolvido durante a Imersão Java da Alura com o objeti
 
 ## 💻 Demonstração
 
-### Aula 1
+<h3 align="center">Aula 1</h3>
 
 <p align="center"><img src="img/alura-stickers.png" width="50%"></p>
 
-Foi criada uma aplicação capaz de fazer a conexão HTTP para buscar os filmes classificados, extrair e exibir os dados necessários no console.
+Cria uma aplicação capaz de fazer a conexão HTTP para buscar os filmes classificados, extrair e exibir os dados necessários no console.
 
-### Aula 2
+<h3 align="center">Aula 2</h3>
 
-<p align="center"><img src="img/poster1.png" width="5%"> <img src="img/poster2.png" width="5%"> <img src="img/poster3.png" width="5%"></p>
+<p align="center"><img src="img/poster1.png" width="10%"> <img src="img/poster2.png" width="10%"> <img src="img/poster3.png" width="10%"></p>
 
-Foi criado um gerador de figurinhas, explorando outras bibliotecas nativas do Java, para que seja possível compartilhar as imagens dos filmes favoritos nas redes sociais.
+Cria um gerador de figurinhas, explorando outras bibliotecas nativas do Java, para que seja possível compartilhar as imagens dos filmes favoritos nas redes sociais.
+
+<h3 align="center">Aula 3</h3>
+
+Inclui melhorias com as refatorações necessárias, a fim de tornar o código mais flexível e facilitando o uso de outras APIs e inputs.
 
 ## ✏️ Autor
 
