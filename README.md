@@ -1,6 +1,6 @@
 # Projeto Alura Stickers
 
-<p align="center"><img src="https://img.shields.io/badge/languages-1-green"> <img src="https://img.shields.io/badge/-Java-yellow"> <img src="https://img.shields.io/github/last-commit/luccasmg/projeto-rocketguru"></p>
+<p align="center"><img src="https://img.shields.io/badge/languages-1-green"> <img src="https://img.shields.io/badge/-Java-yellow"> <img src="https://img.shields.io/github/last-commit/luccasmg/alura-stickers"></p>
 
 <h4 align="center">🚧 <strong>Projeto em Desenvolvimento</strong> 🚀</h4>
 
